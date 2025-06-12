@@ -22,9 +22,9 @@
 
 `p5-vehicle-detection`：
 
-![](.\demo-pic\p5_1.gif)
+![](https://github.com/keyoflouis/ProjectSets-finished/tree/main/demo-pic/p5_1.gif)
 
-![](.\demo-pic\p5_2.gif)
+![](https://github.com/keyoflouis/ProjectSets-finished/tree/main/demo-pic/p5_2.gif)
 
 ## P4 增强车道线检测
 
@@ -32,7 +32,7 @@
 
 `p4-advanced-lane-finding` ：
 
-![](.\demo-pic\p4.gif)
+![](https://github.com/keyoflouis/ProjectSets-finished/tree/main/demo-pic/p4.gif)
 
 ## P3 行为克隆
 
@@ -40,7 +40,7 @@
 
 `p3-behavior-cloning` ：
 
-![](.\demo-pic\p3.gif)
+![](https://github.com/keyoflouis/ProjectSets-finished/tree/main/demo-pic/p3.gif)
 
 ## P2 交通标识符分类器
 
@@ -54,4 +54,4 @@
 
 `p1-finding-lane-line` ：
 
-![](.\demo-pic\p1.gif)
+![](https://github.com/keyoflouis/ProjectSets-finished/tree/main/demo-pic/p1.gif)
