@@ -24,9 +24,10 @@
 
 `p5-vehicle-detection`：
 
-<img src="./demo-pic/p5_1.gif">
+| 更好的实现 | 当前待完善 |
+|----------|----------|
+| <img src="./demo-pic/p5_1.gif" style="width:95%"> | <img src="./demo-pic/p5_2.gif" style="width:95%"> |
 
-<img src="./demo-pic/p5_2.gif">
 
 ## P4 增强车道线检测
 
